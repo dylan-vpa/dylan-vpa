@@ -5,7 +5,7 @@ I’m currently working on a [website for my school](https://teacher-web-tan.ver
 
 I’m currently learning **MongoDB, Unity,Figma**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me [here](https://www.linkedin.com/in/dylan-alexander-pe%C3%B1a-arango/)</h3>
 <p align="left">
 </p>
 
