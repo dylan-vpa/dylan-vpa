@@ -3,7 +3,7 @@
  
 - I’m currently working on a [website for my school](https://teacher-web-tan.vercel.app/)
 
-- I’m currently learning **MongoDB, Unity,Figma**
+- I’m currently learning **MongoDB, Unity**
 
 - Connect with me: [here](https://www.linkedin.com/in/dylan-alexander-pe%C3%B1a-arango/)
 
