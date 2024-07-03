@@ -192,9 +192,9 @@
 ## Stats 👽
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=dylxn-gl&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=dylan-vpa&show_icons=true&theme=react&&hide_border=true"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dylxn-gl&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dylan-vpa&&theme=react&&hide_border=true"
 />
